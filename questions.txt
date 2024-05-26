@@ -1,0 +1,23 @@
+{
+"(IMEI) cannot uniquely identifies a GSM subscriber internationality.": "T",
+"(IMEI) uniquely identifies a GSM subscriber only in its home network. ":"f",
+"A cellular system with non-overlapping cells will not function well.":"t",
+"A type of MAC protocol can be used in GGSN to perform address conversion.":"f",
+" An AGCH is only used when initializing traffic channel in GSM.":"f",
+"Any GPRS mobile station is a combination of handset and battery and SIM card.":"t",
+"Any GSM device is equipped with A8 algorithm stored in it.":"t",
+"Any GSM mobile station is a combination of handset and battery and SIM card. ":"t",
+"Any operation in GSM starts its activity by the use of BCCH.":"t",
+"Borrowing strategy improves the dynamic channel assignment performance.":"f",
+"Both MAHO and NCHO can be used in GPRS. ": "f",
+"Both MAHO and NCHO can be used in GSM. ":"f",
+"BSC perform radio channel multiplexing.":"t",
+"BTS is responsible for softer handovers.":"t",
+"BTS or cell site is a piece of equipment that facilitates wireless communication between MS and a
+network. ":"t",
+" BTS or cell site is a piece of equipment that facilitates wireless communication between UE and a
+network.":"t",
+"Bursts in GSM may have different periods. ":"f",
+"BTS is responsible for softer handovers. ":"t",
+"Bursts in GSM may have different periods.":"f",
+" Cells with radius less than 500m are macro cells.":"f"}
